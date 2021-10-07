@@ -4,6 +4,7 @@ nombre varchar(100) not null, -- ADMIN, FREE, CONT
 primary key(rol_id)
 );
 
+
 create table profesion(
 profesion_id int not null,
 nombre varchar(200) not null,
